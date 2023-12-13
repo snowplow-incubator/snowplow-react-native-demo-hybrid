@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "snowplow-react-native-demo-hybrid",
+    "slug": "snowplow-react-native-demo-hybrid",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.snowplowanalytics.reactnativedemohybrid"
+    },
+    "ios": {
+      "bundleIdentifier": "com.snowplowanalytics.reactnativedemohybrid"
+    }
+  }
+}
